@@ -144,10 +144,10 @@ function entitylistener_civicrm_themes(&$themes) {
 //TODO: Update readme
 
 
-function entitylistener_civicrm_buildForm($formName, &$form)//////////////remove!!!
-{
-  if ($formName == 'CRM_Contact_Form_Contact') {
-    EntitylistenerExample::run();
-  }
-
-}
+//function entitylistener_civicrm_buildForm($formName, &$form)//////////////remove!!!
+//{
+//  if ($formName == 'CRM_Contact_Form_Contact') {
+//    EntitylistenerExample::run();
+//  }
+//
+//}
